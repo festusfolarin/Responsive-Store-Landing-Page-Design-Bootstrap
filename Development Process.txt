@@ -1,0 +1,6 @@
+Design Choices
+================
+
+Added wishlist option to save products for later purchase
+Added a tooltip to the wishlist icon using bootstrap popper
+Utilized bootstrap card component for product listing
